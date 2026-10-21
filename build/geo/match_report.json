@@ -1,0 +1,1001 @@
+{
+ "counties": {
+  "ADAIR": {
+   "precincts": 5,
+   "nyt_shapes": 5,
+   "matched": 5,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "ADAMS": {
+   "precincts": 5,
+   "nyt_shapes": 5,
+   "matched": 5,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "ALLAMAKEE": {
+   "precincts": 10,
+   "nyt_shapes": 10,
+   "matched": 10,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "APPANOOSE": {
+   "precincts": 11,
+   "nyt_shapes": 11,
+   "matched": 11,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "AUDUBON": {
+   "precincts": 2,
+   "nyt_shapes": 2,
+   "matched": 2,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "BENTON": {
+   "precincts": 18,
+   "nyt_shapes": 18,
+   "matched": 18,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "BLACK HAWK": {
+   "precincts": 59,
+   "nyt_shapes": 59,
+   "matched": 59,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "BOONE": {
+   "precincts": 15,
+   "nyt_shapes": 15,
+   "matched": 15,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "BREMER": {
+   "precincts": 14,
+   "nyt_shapes": 14,
+   "matched": 14,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "BUCHANAN": {
+   "precincts": 14,
+   "nyt_shapes": 14,
+   "matched": 14,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "BUENA VISTA": {
+   "precincts": 8,
+   "nyt_shapes": 8,
+   "matched": 8,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "BUTLER": {
+   "precincts": 8,
+   "nyt_shapes": 8,
+   "matched": 8,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "CALHOUN": {
+   "precincts": 6,
+   "nyt_shapes": 6,
+   "matched": 6,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "CARROLL": {
+   "precincts": 13,
+   "nyt_shapes": 13,
+   "matched": 13,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "CASS": {
+   "precincts": 12,
+   "nyt_shapes": 12,
+   "matched": 12,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "CEDAR": {
+   "precincts": 12,
+   "nyt_shapes": 12,
+   "matched": 12,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "CERRO GORDO": {
+   "precincts": 23,
+   "nyt_shapes": 23,
+   "matched": 23,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "CHEROKEE": {
+   "precincts": 7,
+   "nyt_shapes": 7,
+   "matched": 7,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "CHICKASAW": {
+   "precincts": 9,
+   "nyt_shapes": 9,
+   "matched": 9,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "CLARKE": {
+   "precincts": 7,
+   "nyt_shapes": 7,
+   "matched": 7,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "CLAY": {
+   "precincts": 12,
+   "nyt_shapes": 12,
+   "matched": 12,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "CLAYTON": {
+   "precincts": 12,
+   "nyt_shapes": 12,
+   "matched": 12,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "CLINTON": {
+   "precincts": 24,
+   "nyt_shapes": 24,
+   "matched": 24,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "CRAWFORD": {
+   "precincts": 8,
+   "nyt_shapes": 8,
+   "matched": 8,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "DALLAS": {
+   "precincts": 46,
+   "nyt_shapes": 46,
+   "matched": 46,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "DAVIS": {
+   "precincts": 8,
+   "nyt_shapes": 8,
+   "matched": 8,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "DECATUR": {
+   "precincts": 4,
+   "nyt_shapes": 4,
+   "matched": 4,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "DELAWARE": {
+   "precincts": 12,
+   "nyt_shapes": 12,
+   "matched": 12,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "DES MOINES": {
+   "precincts": 17,
+   "nyt_shapes": 17,
+   "matched": 17,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "DICKINSON": {
+   "precincts": 12,
+   "nyt_shapes": 12,
+   "matched": 12,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "DUBUQUE": {
+   "precincts": 34,
+   "nyt_shapes": 34,
+   "matched": 34,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "EMMET": {
+   "precincts": 11,
+   "nyt_shapes": 11,
+   "matched": 11,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "FAYETTE": {
+   "precincts": 20,
+   "nyt_shapes": 20,
+   "matched": 20,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "FLOYD": {
+   "precincts": 8,
+   "nyt_shapes": 8,
+   "matched": 8,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "FRANKLIN": {
+   "precincts": 12,
+   "nyt_shapes": 12,
+   "matched": 12,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "FREMONT": {
+   "precincts": 5,
+   "nyt_shapes": 5,
+   "matched": 5,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "GREENE": {
+   "precincts": 6,
+   "nyt_shapes": 6,
+   "matched": 6,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "GRUNDY": {
+   "precincts": 7,
+   "nyt_shapes": 7,
+   "matched": 7,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "GUTHRIE": {
+   "precincts": 6,
+   "nyt_shapes": 6,
+   "matched": 6,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "HAMILTON": {
+   "precincts": 7,
+   "nyt_shapes": 7,
+   "matched": 7,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "HANCOCK": {
+   "precincts": 10,
+   "nyt_shapes": 10,
+   "matched": 10,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "HARDIN": {
+   "precincts": 8,
+   "nyt_shapes": 8,
+   "matched": 8,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "HARRISON": {
+   "precincts": 11,
+   "nyt_shapes": 11,
+   "matched": 11,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "HENRY": {
+   "precincts": 9,
+   "nyt_shapes": 9,
+   "matched": 9,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "HOWARD": {
+   "precincts": 9,
+   "nyt_shapes": 9,
+   "matched": 9,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "HUMBOLDT": {
+   "precincts": 6,
+   "nyt_shapes": 6,
+   "matched": 6,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "IDA": {
+   "precincts": 7,
+   "nyt_shapes": 7,
+   "matched": 7,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "IOWA": {
+   "precincts": 11,
+   "nyt_shapes": 11,
+   "matched": 11,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "JACKSON": {
+   "precincts": 13,
+   "nyt_shapes": 13,
+   "matched": 13,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "JASPER": {
+   "precincts": 20,
+   "nyt_shapes": 18,
+   "matched": 20,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 1,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "JEFFERSON": {
+   "precincts": 12,
+   "nyt_shapes": 12,
+   "matched": 12,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "JOHNSON": {
+   "precincts": 64,
+   "nyt_shapes": 65,
+   "matched": 64,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 1,
+   "unmatched_codes": []
+  },
+  "JONES": {
+   "precincts": 14,
+   "nyt_shapes": 14,
+   "matched": 14,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "KEOKUK": {
+   "precincts": 11,
+   "nyt_shapes": 11,
+   "matched": 11,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "KOSSUTH": {
+   "precincts": 20,
+   "nyt_shapes": 20,
+   "matched": 20,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "LEE": {
+   "precincts": 22,
+   "nyt_shapes": 22,
+   "matched": 22,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "LINN": {
+   "precincts": 94,
+   "nyt_shapes": 94,
+   "matched": 94,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "LOUISA": {
+   "precincts": 5,
+   "nyt_shapes": 5,
+   "matched": 5,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "LUCAS": {
+   "precincts": 7,
+   "nyt_shapes": 7,
+   "matched": 7,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "LYON": {
+   "precincts": 10,
+   "nyt_shapes": 10,
+   "matched": 10,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "MADISON": {
+   "precincts": 10,
+   "nyt_shapes": 10,
+   "matched": 10,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "MAHASKA": {
+   "precincts": 9,
+   "nyt_shapes": 9,
+   "matched": 9,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "MARION": {
+   "precincts": 19,
+   "nyt_shapes": 19,
+   "matched": 19,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "MARSHALL": {
+   "precincts": 15,
+   "nyt_shapes": 11,
+   "matched": 15,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 4,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "MILLS": {
+   "precincts": 11,
+   "nyt_shapes": 11,
+   "matched": 11,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "MITCHELL": {
+   "precincts": 12,
+   "nyt_shapes": 12,
+   "matched": 12,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "MONONA": {
+   "precincts": 10,
+   "nyt_shapes": 10,
+   "matched": 10,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "MONROE": {
+   "precincts": 7,
+   "nyt_shapes": 7,
+   "matched": 7,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "MONTGOMERY": {
+   "precincts": 7,
+   "nyt_shapes": 7,
+   "matched": 7,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "MUSCATINE": {
+   "precincts": 25,
+   "nyt_shapes": 25,
+   "matched": 25,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "O BRIEN": {
+   "precincts": 9,
+   "nyt_shapes": 9,
+   "matched": 9,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "OSCEOLA": {
+   "precincts": 8,
+   "nyt_shapes": 8,
+   "matched": 8,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "PAGE": {
+   "precincts": 9,
+   "nyt_shapes": 9,
+   "matched": 9,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "PALO ALTO": {
+   "precincts": 8,
+   "nyt_shapes": 8,
+   "matched": 8,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "PLYMOUTH": {
+   "precincts": 11,
+   "nyt_shapes": 11,
+   "matched": 11,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "POCAHONTAS": {
+   "precincts": 7,
+   "nyt_shapes": 7,
+   "matched": 7,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "POLK": {
+   "precincts": 176,
+   "nyt_shapes": 176,
+   "matched": 176,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "POTTAWATTAMIE": {
+   "precincts": 40,
+   "nyt_shapes": 40,
+   "matched": 40,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "POWESHIEK": {
+   "precincts": 10,
+   "nyt_shapes": 10,
+   "matched": 10,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "RINGGOLD": {
+   "precincts": 7,
+   "nyt_shapes": 7,
+   "matched": 7,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "SAC": {
+   "precincts": 9,
+   "nyt_shapes": 9,
+   "matched": 9,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "SCOTT": {
+   "precincts": 67,
+   "nyt_shapes": 66,
+   "matched": 66,
+   "weak_lt60": 0,
+   "unmatched": 1,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": [
+    "99999"
+   ]
+  },
+  "SHELBY": {
+   "precincts": 11,
+   "nyt_shapes": 11,
+   "matched": 11,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "SIOUX": {
+   "precincts": 17,
+   "nyt_shapes": 17,
+   "matched": 17,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "STORY": {
+   "precincts": 45,
+   "nyt_shapes": 45,
+   "matched": 45,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "TAMA": {
+   "precincts": 12,
+   "nyt_shapes": 12,
+   "matched": 12,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "TAYLOR": {
+   "precincts": 5,
+   "nyt_shapes": 5,
+   "matched": 5,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "UNION": {
+   "precincts": 9,
+   "nyt_shapes": 9,
+   "matched": 9,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "VAN BUREN": {
+   "precincts": 4,
+   "nyt_shapes": 4,
+   "matched": 4,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "WAPELLO": {
+   "precincts": 22,
+   "nyt_shapes": 22,
+   "matched": 22,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "WARREN": {
+   "precincts": 40,
+   "nyt_shapes": 40,
+   "matched": 40,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "WASHINGTON": {
+   "precincts": 10,
+   "nyt_shapes": 10,
+   "matched": 10,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "WAYNE": {
+   "precincts": 4,
+   "nyt_shapes": 4,
+   "matched": 4,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "WEBSTER": {
+   "precincts": 19,
+   "nyt_shapes": 19,
+   "matched": 19,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "WINNEBAGO": {
+   "precincts": 10,
+   "nyt_shapes": 10,
+   "matched": 10,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "WINNESHIEK": {
+   "precincts": 12,
+   "nyt_shapes": 12,
+   "matched": 12,
+   "weak_lt60": 1,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 1,
+   "shapes_with_no_precinct": 1,
+   "unmatched_codes": []
+  },
+  "WOODBURY": {
+   "precincts": 44,
+   "nyt_shapes": 44,
+   "matched": 44,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "WORTH": {
+   "precincts": 7,
+   "nyt_shapes": 7,
+   "matched": 7,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  },
+  "WRIGHT": {
+   "precincts": 10,
+   "nyt_shapes": 10,
+   "matched": 10,
+   "weak_lt60": 0,
+   "unmatched": 0,
+   "shapes_with_several_precincts": 0,
+   "shapes_with_no_precinct": 0,
+   "unmatched_codes": []
+  }
+ },
+ "total_precincts": 1659,
+ "matched": 1658,
+ "weak": 1,
+ "unmatched": 1,
+ "shapes_shared": 6
+}
