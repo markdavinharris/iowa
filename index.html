@@ -1033,6 +1033,52 @@ function methodology(){
   new MutationObserver(()=>render()).observe(document.documentElement,{attributes:true,attributeFilter:['data-theme']});
 })();
 
+
+/* ---------- Election Day in 2024 and 2022 (static; added 2026-11-01) ---------- */
+(function(){
+var EDAY={"st":"Iowa","y":{"2024":{"_":[1666472,986712],"ADAIR":[4106,2539],"ADAMS":[2149,1173],"ALLAMAKEE":[7407,4074],"APPANOOSE":[6540,3853],"AUDUBON":[3279,1860],"BENTON":[14552,10582],"BLACK HAWK":[63273,38277],"BOONE":[15507,8476],"BREMER":[14668,8979],"BUCHANAN":[10837,6976],"BUENA VISTA":[7613,4243],"BUTLER":[7965,5368],"CALHOUN":[5122,3372],"CARROLL":[11228,6612],"CASS":[7288,4306],"CEDAR":[10711,6153],"CERRO GORDO":[23024,13038],"CHEROKEE":[6157,3399],"CHICKASAW":[6320,3031],"CLARKE":[4556,2717],"CLAY":[8603,4567],"CLAYTON":[9456,6561],"CLINTON":[23941,12755],"CRAWFORD":[6615,4050],"DALLAS":[63503,37644],"DAVIS":[3987,2280],"DECATUR":[3764,2385],"DELAWARE":[10210,6682],"DES MOINES":[18793,9642],"DICKINSON":[11303,5012],"DUBUQUE":[53007,28754],"EMMET":[4831,3124],"FAYETTE":[9922,6741],"FLOYD":[7701,4751],"FRANKLIN":[4945,3168],"FREMONT":[3816,2495],"GREENE":[4966,2555],"GRUNDY":[7202,4761],"GUTHRIE":[6609,4060],"HAMILTON":[7641,4300],"HANCOCK":[5977,4097],"HARDIN":[8480,5480],"HARRISON":[8011,5607],"HENRY":[9664,4331],"HOWARD":[4884,3132],"HUMBOLDT":[5044,2938],"IDA":[3684,2555],"IOWA":[9702,5827],"JACKSON":[10854,6763],"JASPER":[20286,12158],"JEFFERSON":[8454,3688],"JOHNSON":[87084,41428],"JONES":[11038,6204],"KEOKUK":[5185,3536],"KOSSUTH":[8447,5199],"LEE":[16316,8858],"LINN":[123520,71484],"LOUISA":[5187,3063],"LUCAS":[4642,2452],"LYON":[7046,4865],"MADISON":[9982,5738],"MAHASKA":[10443,6039],"MARION":[19660,12562],"MARSHALL":[17403,9090],"MILLS":[8267,4838],"MITCHELL":[5782,3504],"MONONA":[4684,3147],"MONROE":[4197,2201],"MONTGOMERY":[5098,3008],"MUSCATINE":[19887,12030],"O BRIEN":[7569,5517],"OSCEOLA":[3240,2307],"PAGE":[7387,4562],"PALO ALTO":[5011,3160],"PLYMOUTH":[14122,8427],"POCAHONTAS":[3599,2283],"POLK":[254970,166463],"POTTAWATTAMIE":[44695,28776],"POWESHIEK":[10054,5874],"RINGGOLD":[2706,1476],"SAC":[5501,3882],"SCOTT":[90230,47330],"SHELBY":[6539,3506],"SIOUX":[19051,13504],"STORY":[49753,31802],"TAMA":[8664,6443],"TAYLOR":[2962,1883],"UNION":[6040,3272],"VAN BUREN":[3655,2500],"WAPELLO":[14494,8420],"WARREN":[32842,19467],"WASHINGTON":[11643,6344],"WAYNE":[3162,1874],"WEBSTER":[16813,10187],"WINNEBAGO":[5668,3923],"WINNESHIEK":[12071,4698],"WOODBURY":[41926,20821],"WORTH":[4311,3227],"WRIGHT":[5769,3647]},"2022":{"_":[1229226,859165],"ADAIR":[3183,2238],"ADAMS":[1677,1140],"ALLAMAKEE":[5850,3932],"APPANOOSE":[4741,3412],"AUDUBON":[2478,1743],"BENTON":[11419,9029],"BLACK HAWK":[47483,32590],"BOONE":[11249,7341],"BREMER":[11124,7904],"BUCHANAN":[8302,6051],"BUENA VISTA":[5175,3625],"BUTLER":[6081,4545],"CALHOUN":[4001,3086],"CARROLL":[8312,5795],"CASS":[5314,3977],"CEDAR":[7983,5597],"CERRO GORDO":[17176,11440],"CHEROKEE":[4601,3066],"CHICKASAW":[5022,2872],"CLARKE":[3425,2349],"CLAY":[6546,4089],"CLAYTON":[7401,5693],"CLINTON":[16954,11175],"CRAWFORD":[4526,3256],"DALLAS":[44857,31014],"DAVIS":[3066,2168],"DECATUR":[2810,2085],"DELAWARE":[7685,5649],"DES MOINES":[13570,9143],"DICKINSON":[8322,5214],"DUBUQUE":[39164,25842],"EMMET":[3430,2551],"FAYETTE":[7573,5574],"FLOYD":[5789,4093],"FRANKLIN":[3641,2703],"FREMONT":[2665,2054],"GREENE":[3667,2251],"GRUNDY":[5414,4338],"GUTHRIE":[5092,3609],"HAMILTON":[5775,3907],"HANCOCK":[4420,3431],"HARDIN":[6628,4714],"HARRISON":[5582,4574],"HENRY":[7014,4180],"HOWARD":[3409,2519],"HUMBOLDT":[3903,2845],"IDA":[2779,2205],"IOWA":[7523,5532],"JACKSON":[7846,5609],"JASPER":[15058,10822],"JEFFERSON":[6713,3587],"JOHNSON":[63934,38302],"JONES":[8217,5841],"KEOKUK":[3858,3069],"KOSSUTH":[6768,4879],"LEE":[11515,7945],"LINN":[94038,65404],"LOUISA":[3542,2655],"LUCAS":[3461,2363],"LYON":[5020,4378],"MADISON":[7590,5200],"MAHASKA":[8172,5938],"MARION":[14468,10890],"MARSHALL":[12465,7997],"MILLS":[5690,4105],"MITCHELL":[4267,2993],"MONONA":[3358,2640],"MONROE":[2994,2005],"MONTGOMERY":[3577,2725],"MUSCATINE":[13285,8956],"O BRIEN":[5426,4592],"OSCEOLA":[2329,1969],"PAGE":[5166,3739],"PALO ALTO":[3623,2643],"PLYMOUTH":[9870,7289],"POCAHONTAS":[2880,2118],"POLK":[192256,138360],"POTTAWATTAMIE":[29140,22584],"POWESHIEK":[7658,5252],"RINGGOLD":[2097,1507],"SAC":[3988,3190],"SCOTT":[63912,40543],"SHELBY":[4742,3317],"SIOUX":[14258,12147],"STORY":[37334,26874],"TAMA":[6671,5348],"TAYLOR":[2320,1845],"UNION":[4596,3109],"VAN BUREN":[2809,2100],"WAPELLO":[10585,7456],"WARREN":[23962,17129],"WASHINGTON":[8876,6227],"WAYNE":[2409,1724],"WEBSTER":[12123,8956],"WINNEBAGO":[4429,3566],"WINNESHIEK":[9736,5167],"WOODBURY":[28811,18183],"WORTH":[3271,2658],"WRIGHT":[4312,3130]}}};
+var css0='#s-eday .edgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:14px}'
+ +'#s-eday .edc{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:14px 16px 12px;min-width:0;display:flex;flex-direction:column;gap:6px}'
+ +'#s-eday .edl{font-family:var(--cond);font-weight:600;letter-spacing:.1em;text-transform:uppercase;font-size:12px;color:var(--muted)}'
+ +'#s-eday .edv{font-family:var(--cond);font-weight:700;font-size:34px;line-height:1;letter-spacing:-.01em}'
+ +'#s-eday .edv small{font-size:16px;font-weight:600;color:var(--fg2);margin-left:6px;letter-spacing:0}'
+ +'#s-eday .edd{font-size:13px;color:var(--fg2)}#s-eday .edd b{font-weight:700}'
+ +'#s-eday .edbar{display:flex;height:10px;border-radius:5px;overflow:hidden;background:var(--line);margin-top:4px}'
+ +'#s-eday .edbar span{display:block;height:100%}'
+ +'#s-eday .edkey{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:12px;color:var(--muted)}'
+ +'#s-eday .edkey i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px}';
+var st=document.createElement('style');st.textContent=css0;document.head.appendChild(st);
+var sec=document.createElement('section');sec.id='s-eday';
+sec.innerHTML='<header><div><div class="rule"></div><h2>Election Day votes in 2024 and 2022 <small id="eday-scope"></small></h2></div></header>'
+ +'<div class="edgrid" id="eday-cards"></div><div class="hint" id="eday-hint"></div>';
+var after=document.getElementById('s-pace')||document.getElementById('s-kpi');
+if(after&&after.parentNode)after.parentNode.insertBefore(sec,after.nextSibling);else document.querySelector('main').appendChild(sec);
+var n=function(x){return Math.round(x).toLocaleString('en-US');};
+var tc=function(s){return s.toLowerCase().replace(/\b\w/g,function(c){return c.toUpperCase();});};
+function draw(){
+  var sc=(typeof state!=='undefined'&&state&&state.scope)?state.scope:'STATE';
+  var key=sc==='STATE'?'_':sc;
+  document.getElementById('eday-scope').textContent=sc==='STATE'?EDAY.st+' statewide':tc(sc)+' County';
+  var cs=getComputedStyle(document.documentElement);
+  var html='';
+  ['2024','2022'].forEach(function(y){
+    var r=EDAY.y[y][key]||[0,0], voted=r[0], ed=r[1], early=voted-ed, sh=voted?100*ed/voted:0;
+    var col=cs.getPropertyValue(y==='2024'?'--y24':'--y22').trim();
+    var lab=(EDAY.lab&&EDAY.lab[y])||'Election Day';
+    html+='<div class="edc"><div class="edl">'+y+' general · '+lab+'</div>'
+      +'<div class="edv num">'+n(ed)+'<small>votes</small></div>'
+      +'<div class="edd"><b>'+sh.toFixed(1)+'%</b> of the <b>'+n(voted)+'</b> voters recorded as voting · <b>'+n(early)+'</b> voted early or by mail</div>'
+      +'<div class="edbar" role="img" aria-label="'+sh.toFixed(1)+'% on Election Day"><span style="width:'+(100-sh)+'%;background:var(--muted);opacity:.45"></span><span style="width:'+sh+'%;background:'+col+'"></span></div>'
+      +'<div class="edkey"><span><i style="background:var(--muted);opacity:.45"></i>Early / mail</span><span><i style="background:'+col+'"></i>'+lab+'</span></div></div>';
+  });
+  document.getElementById('eday-cards').innerHTML=html;
+  document.getElementById('eday-hint').textContent=(EDAY.note?EDAY.note+' ':'')+'Counted from each year’s voter file (2024 and 2022 snapshots): voters recorded as voting in that November’s general election, less those with a mail ballot returned or an early in-person vote in that year’s early-vote feed (or an early / mail method in their vote history). Voters removed from the rolls before the snapshot are not included, so these run somewhat below certified turnout. County is the voter’s county on that year’s file.';
+}
+if(typeof render==='function'){var _r=render;render=function(){var o=_r.apply(this,arguments);try{draw();}catch(e){}return o;};}
+draw();
+})();
+
+
 </script>
 
 </body>
